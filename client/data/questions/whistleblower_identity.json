@@ -1,0 +1,2176 @@
+{
+  "id": "whistleblower_identity",
+  "label": {
+    "en": "Do you want to provide your identification information?",
+    "ar": "هل ترغب في تقديم معلومات عن هويتك؟",
+    "az": "Kimlik məlumatınızı vermək istəyirsiniz mi?",
+    "bg": "Желаете ли да изпратите информация за самоличността си?",
+    "bs": "Da li želite da date svoje podatke za identifikaciju?",
+    "ca": "Vols introduir la teva informació d'identificació?",
+    "ca@valencia": "Vol proporcionar la seua informació d'identificació?",
+    "cs": "Chcete poskytnout informace o Vaší identitě?",
+    "da": "Ønsker du at give oplysninger om din identitet?",
+    "de": "Wollen Sie Ihre Identifikationsinformationen zur Verfügung zu stellen?",
+    "dv": "ތިޔަ ބޭފުޅާގެ އައިޑެންޓިފިކޭޝަން މަޢުލޫމާތު ޙިއްޞާކުރަން ބޭނުންފުޅުވޭތޯ؟",
+    "el": "Θέλετε να μας παρέχετε πληροφορίες ταυτοποίησής σας;",
+    "es": "¿Quieres compartir tus datos de identificación?",
+    "fa": "آیا میخواهید اطلاعات که هویت شما را مشخص می کند را فراهم کنید؟",
+    "fi": "Haluatko luovuttaa henkilötietosi?",
+    "fr": "Voulez-vous fournir vos renseignements d’identification ?",
+    "gl": "Desexa proporcionar a súa información de identificación?",
+    "he": "האם אתה רוצה לספק מידע זיהוי שלך?",
+    "hr_HR": "Želite li pružiti informacije o Vašoj identifikaciji?",
+    "hu_HU": "Meg szeretné adni az azonosítási információit?",
+    "id": "Apakah Anda ingin memberikan informasi identifikasi Anda?",
+    "it": "Vuoi fornire i tuoi dati identificativi?",
+    "ja": "あなたの身元情報を提供しますか?",
+    "ka": "გსურთ თქვენი საიდენტიფიკაციო ინფორმაცია?",
+    "ko": "당신은 당신의 식별 정보를 제공 하시겠습니까?",
+    "lt": "Do you want to provide your identification information?",
+    "mg": "Voulez-vous fournir vos renseignements d’identification ?",
+    "nb_NO": "Ønsker du å oppgi identifiserbar informasjon?",
+    "nl": "Wil je je identificeren?",
+    "pl": "Czy chcesz podać nam dane identyfikacyjne?",
+    "pt_BR": "Você deseja fornecer informações sobre a sua identidade?",
+    "pt_PT": "Deseja fornecer a sua informação de identificação?",
+    "ro": "Vrei să oferi informații care să permită identificarea ta?",
+    "ru": "Вы хотите оставить информацию о себе?",
+    "sk": "Chcete poskytnúť informácie o Vašej identite?",
+    "sl_SI": "Ali želite navesti podatke o vaši identiteti?",
+    "sq": "A doni për të siguruar të dhënat tuaja të identifikimit?",
+    "sv": "Do you want to provide your identification information?",
+    "ta": "நீங்கள் உங்கள் அடையாள தகவல் வழங்க வேண்டும் என்று விரும்புகிறீர்கள்?",
+    "th": "คุณต้องการที่จะให้ข้อมูลที่ระบุตัวตนของคุณหรือไม่",
+    "tr": "Kimlik bilgilerinizi girmek istiyor musunuz?",
+    "uk": "Ви бажаєте ідентифікувати себе?",
+    "ur": "کیا آپ اپنی شناخت کی معلومات فراہم کرنا چاہتے ہیں؟",
+    "vi": "Bạn muốn cung cấp thông tin nhận dạng của bạn?",
+    "zh_CN": "你要提供自己的身份信息吗？",
+    "zh_TW": "你要提供自己的身份資訊嗎？"
+  },
+  "description": {
+    "en": ""
+  },
+  "multi_entry": false,
+  "attrs": {},
+  "instance": "template",
+  "hint": {
+    "en": ""
+  },
+  "placeholder": {
+    "en": ""
+  },
+  "width": 0,
+  "preview": false,
+  "type": "fieldgroup",
+  "fieldgroup_id": "",
+  "encrypt": true,
+  "editable": false,
+  "step_id": "",
+  "required": false,
+  "triggered_by_score": 0,
+  "triggered_by_options": [],
+  "multi_entry_hint": {
+    "en": ""
+  },
+  "template_id": "",
+  "y": 0,
+  "x": 0,
+  "options": [],
+  "children": [
+    {
+      "id": "",
+      "label": {
+        "en": "First name",
+        "ar": "الاسم",
+        "az": "Ad",
+        "bg": "Първо име",
+        "bs": "Ime",
+        "ca": "Nom",
+        "ca@valencia": "Nom",
+        "cs": "Jméno",
+        "da": "Fornavn",
+        "de": "Vorname",
+        "dv": "ފުރަތަމަ ނަން",
+        "el": "Όνομα",
+        "es": "Nombre",
+        "fa": "نام کوچک",
+        "fi": "Etunimi",
+        "fr": "Prénom",
+        "gl": "Nome",
+        "he": "שם פרטי",
+        "hr_HR": "Ime",
+        "hu_HU": "Keresztnév",
+        "id": "Nama Depan",
+        "it": "Nome",
+        "ja": "名",
+        "ka": "სახელი",
+        "ko": "이름",
+        "lt": "Vardas",
+        "mg": "Prénom",
+        "nb_NO": "Fornavn",
+        "nl": "Voornaam",
+        "pl": "Imię",
+        "pt_BR": "Primeiro nome",
+        "pt_PT": "Nome",
+        "ro": "Prenume",
+        "ru": "Имя",
+        "sk": "Meno",
+        "sl_SI": "Ime",
+        "sq": "Emri",
+        "sv": "Förnamn",
+        "ta": "முதல் பெயர்",
+        "th": "ชื่อตัว",
+        "tr": "İsim",
+        "uk": "Ім'я",
+        "ur": "پہلا نام",
+        "vi": "Tên",
+        "zh_CN": "名",
+        "zh_TW": "名"
+      },
+      "description": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "width": 6,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "triggered_by_score": 0,
+      "step_id": "",
+      "required": true,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 0,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Last name",
+        "ar": "الكنية",
+        "az": "Soyad",
+        "bg": "Фамилия",
+        "bs": "Prezime",
+        "ca": "Cognom(s)",
+        "ca@valencia": "Cognom(s)",
+        "cs": "Příjmení",
+        "da": "Efternavn",
+        "de": "Nachname",
+        "dv": "އާއިލީ ނަން",
+        "el": "Επώνυμο",
+        "es": "Apellidos",
+        "fa": "نام خانوداگی",
+        "fi": "Sukunimi",
+        "fr": "Nom de famille",
+        "gl": "Apelido",
+        "he": "שם משפחה",
+        "hr_HR": "Prezime",
+        "hu_HU": "Vezetéknév",
+        "id": "Nama Belakang",
+        "it": "Cognome",
+        "ja": "姓",
+        "ka": "გვარი",
+        "ko": "성",
+        "lt": "Pavardė",
+        "mg": "Nom de famille",
+        "nb_NO": "Etternavn",
+        "nl": "Achternaam",
+        "pl": "Nazwisko",
+        "pt_BR": "Último nome",
+        "pt_PT": "Sobrenome",
+        "ro": "Nume",
+        "ru": "Фамилия",
+        "sk": "Priezvisko",
+        "sl_SI": "Priimek",
+        "sq": "Mbiemri",
+        "sv": "Efternamn",
+        "ta": "கடைசி பெயர்",
+        "th": "สกุล",
+        "tr": "Soyisim",
+        "uk": "Прізвище",
+        "ur": "آخری نام",
+        "vi": "Họ",
+        "zh_CN": "姓",
+        "zh_TW": "姓"
+      },
+      "description": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "width": 6,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": true,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 0,
+      "x": 1,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Gender",
+        "ar": "الجنس",
+        "az": "Cins",
+        "bg": "Пол",
+        "bs": "Spol",
+        "ca": "Gènere",
+        "ca@valencia": "Gènere",
+        "cs": "Pohlaví",
+        "da": "Køn",
+        "de": "Geschlecht",
+        "dv": "ޖިންސު",
+        "el": "Φύλο",
+        "es": "Género",
+        "fa": "جنسیت",
+        "fi": "Sukupuoli",
+        "fr": "Genre",
+        "gl": "Xénero",
+        "he": "מגדר",
+        "hr_HR": "Spol",
+        "hu_HU": "Nem",
+        "id": "Jender",
+        "it": "Genere",
+        "ja": "性別",
+        "ka": "სქესი",
+        "ko": "성별",
+        "lt": "Gender",
+        "mg": "Genre",
+        "nb_NO": "Kjønn",
+        "nl": "Geslacht",
+        "pl": "Płeć",
+        "pt_BR": "Gênero",
+        "pt_PT": "Sexo",
+        "ro": "Gen",
+        "ru": "Пол",
+        "sk": "Pohlavie",
+        "sl_SI": "Spol",
+        "sq": "gjini",
+        "sv": "Kön",
+        "ta": "பாலினம்",
+        "th": "เพศ",
+        "tr": "Cinsiyet",
+        "uk": "Стать",
+        "ur": "صنف",
+        "vi": "Giới tính",
+        "zh_CN": "姓别",
+        "zh_TW": "姓別"
+      },
+      "description": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "layout_orientation": {
+          "type": "unicode",
+          "value": "vertical"
+        },
+        "display_alphabetically": {
+          "type": "bool",
+          "value": true
+        }
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "width": 3,
+      "preview": false,
+      "type": "selectbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": true,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 2,
+      "x": 0,
+      "options": [
+        {
+          "order": 0,
+          "trigger_field": "",
+          "score_type": "none",
+          "score_points": 0,
+          "label": {
+            "en": "Male",
+            "ar": "ذكر",
+            "az": "Kişi",
+            "bg": "Мъж",
+            "bs": "Muški",
+            "ca": "Masculí",
+            "ca@valencia": "Masculí",
+            "cs": "Muž",
+            "da": "Mand",
+            "de": "Männlich",
+            "dv": "ފިރިހެން",
+            "el": "Άνδρας",
+            "es": "Masculino",
+            "fa": "مرد",
+            "fi": "Mies",
+            "fr": "Homme",
+            "gl": "Home",
+            "he": "זכר",
+            "hr_HR": "Muško",
+            "hu_HU": "Férfi",
+            "id": "Pria",
+            "it": "Uomo",
+            "ja": "男性",
+            "ka": "კაცი",
+            "ko": "남성",
+            "lt": "Male",
+            "mg": "Homme",
+            "nb_NO": "Hannkjønn",
+            "nl": "Man",
+            "pl": "Mężczyzna",
+            "pt_BR": "Masculino",
+            "pt_PT": "Masculino",
+            "ro": "Masculin",
+            "ru": "Мужской",
+            "sk": "Muž",
+            "sl_SI": "Moški",
+            "sq": "mashkull",
+            "sv": "Man",
+            "ta": "ஆண்",
+            "th": "ชาย",
+            "tr": "Erkek",
+            "uk": "чол.",
+            "ur": "مرد",
+            "vi": "Nam giới",
+            "zh_CN": "男性",
+            "zh_TW": "男性"
+          },
+          "id": ""
+        },
+        {
+          "order": 1,
+          "trigger_field": "",
+          "score_type": "none",
+          "score_points": 0,
+          "label": {
+            "en": "Female",
+            "ar": "أنثى",
+            "az": "Qadın",
+            "bg": "Жена",
+            "bs": "Ženski",
+            "ca": "Femení",
+            "ca@valencia": "Femení",
+            "cs": "Žena",
+            "da": "Kvinde",
+            "de": "Weiblich",
+            "dv": "އަންހެން",
+            "el": "Γυναίκα",
+            "es": "Femenino",
+            "fa": "زن",
+            "fi": "Nainen",
+            "fr": "Femme",
+            "gl": "Muller",
+            "he": "נקבה",
+            "hr_HR": "Žensko",
+            "hu_HU": "Nő",
+            "id": "Wanita",
+            "it": "Donna",
+            "ja": "女性",
+            "ka": "ქალი",
+            "ko": "여자",
+            "lt": "Female",
+            "mg": "Femme",
+            "nb_NO": "Hunnkjønn",
+            "nl": "Vrouw",
+            "pl": "Kobieta",
+            "pt_BR": "Feminino",
+            "pt_PT": "Feminino",
+            "ro": "Feminin",
+            "ru": "Женский",
+            "sk": "Žena",
+            "sl_SI": "Ženska",
+            "sq": "femër",
+            "sv": "Kvinna",
+            "ta": "பெண்",
+            "th": "หญิง",
+            "tr": "Kadın",
+            "uk": "жін.",
+            "ur": "عورت",
+            "vi": "Nữ giới",
+            "zh_CN": "女",
+            "zh_TW": "女性"
+          },
+          "id": ""
+        },
+        {
+          "order": 2,
+          "trigger_field": "",
+          "score_type": "none",
+          "score_points": 0,
+          "label": {
+            "en": "Other gender identity",
+            "ar": "جنس آخر",
+            "az": "Other gender identity",
+            "bg": "Друга полова принадлежност",
+            "bs": "Drugi rodni identitet",
+            "ca": "Altres identitats de gènere",
+            "ca@valencia": "Altra identitat de gènere",
+            "cs": "Jiná genderová identita",
+            "da": "Anden kønsidentitet",
+            "de": "Andere Genderidentität",
+            "dv": "އެހެން ޖިއްސެއް ނަމަ",
+            "el": "Άλλη ταυτότητα φύλου",
+            "es": "Otra identidad de género",
+            "fa": "سایر هویت های جنسی",
+            "fi": "Muu sukupuoli-identiteetti",
+            "fr": "Autre identité de genre",
+            "gl": "Outra identidade de xénero",
+            "he": "זהות מגדר אחרת",
+            "hr_HR": "Drugi rodni identitet",
+            "hu_HU": "Egyéb nemi identitás",
+            "id": "identitas jender lainnya",
+            "it": "Altra identità di genere",
+            "ja": "その他の性同一性",
+            "ka": "Other gender identity",
+            "ko": "Other gender identity",
+            "lt": "Other gender identity",
+            "mg": "Autre identité de genre",
+            "nb_NO": "Annen kjønnsidentitet",
+            "nl": "Andere gender identiteit",
+            "pl": "Inna",
+            "pt_BR": "Outra identidade de gênero",
+            "pt_PT": "Outra identidade de género",
+            "ro": "Alt gen",
+            "ru": "Other gender identity",
+            "sk": "Iná genderová identita",
+            "sl_SI": "Other gender identity",
+            "sq": "Other gender identity",
+            "sv": "Other gender identity",
+            "ta": "பிற பாலின அடையாளம்",
+            "th": "อัตลักษณ์สถานะเพศอื่นๆ",
+            "tr": "Diğer cinsel kimlik",
+            "uk": "Other gender identity",
+            "ur": "Other gender identity",
+            "vi": "Các giới tính khác",
+            "zh_CN": "其它性别认同",
+            "zh_TW": "其它性別認同"
+          },
+          "id": ""
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Date of birth",
+        "ar": "تاريخ الولادة",
+        "az": "Doğum yeri",
+        "bg": "Дата на раждане",
+        "bs": "Datum rođenja",
+        "ca": "Data de naixement",
+        "ca@valencia": "Data de naixement",
+        "cs": "Datum narození",
+        "da": "Fødselsdato",
+        "de": "Geburtsdatum",
+        "dv": "އުފަންވީ ތާރީޚް",
+        "el": "Ημερομηνία γέννησης",
+        "es": "Fecha de nacimiento",
+        "fa": "تاریخ تولد",
+        "fi": "Syntymäpäivä",
+        "fr": "Date de naissance",
+        "gl": "Data de nacemento",
+        "he": "תאריך לידה",
+        "hr_HR": "Datum rođenja",
+        "hu_HU": "Születési idő",
+        "id": "Tanggal lahir",
+        "it": "Data di nascita",
+        "ja": "誕生日",
+        "ka": "დაბადების თარიღი",
+        "ko": "생년월일",
+        "lt": "Date of birth",
+        "mg": "Date de naissance",
+        "nb_NO": "Fødselsdato",
+        "nl": "Geboortedatum",
+        "pl": "Data urodzenia",
+        "pt_BR": "Data de nascimento",
+        "pt_PT": "Data de nascimento",
+        "ro": "Data nașterii",
+        "ru": "Дата рождения",
+        "sk": "Dátum narodenia",
+        "sl_SI": "Datum rojstva",
+        "sq": "Data e lindjes",
+        "sv": "Födelsedatum",
+        "ta": "பிறந்த தேதி",
+        "th": "วันเกิด",
+        "tr": "Doğum tarihi",
+        "uk": "Рік народження",
+        "ur": "تاریخِ پیدائش",
+        "vi": "Ngày sinh",
+        "zh_CN": "出生日期",
+        "zh_TW": "出生日期"
+      },
+      "description": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "min_date": {
+          "type": "unicode",
+          "value": ""
+        },
+        "max_date": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "width": 6,
+      "preview": false,
+      "type": "date",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": true,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 3,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Place of birth",
+        "ar": "مكان الولادة",
+        "az": "Doğum yeri",
+        "bg": "Място на раждане",
+        "bs": "Mjesto rođenja",
+        "ca": "Lloc de naixement",
+        "ca@valencia": "Lloc de naixement",
+        "cs": "Místo narození",
+        "da": "Fødested",
+        "de": "Geburtsort",
+        "dv": "އުފަންވީ ތަން",
+        "el": "Τόπος γέννησης",
+        "es": "Lugar de nacimiento",
+        "fa": "محل تولد",
+        "fi": "Syntymäpaikka",
+        "fr": "Lieu de naissance",
+        "gl": "Lugar de nacemento",
+        "he": "מקום לידה",
+        "hr_HR": "Mjesto rođenja",
+        "hu_HU": "Születési hely",
+        "id": "Tempat lahir",
+        "it": "Luogo di nascita",
+        "ja": "誕生地",
+        "ka": "დაბადების ადგილი",
+        "ko": "출생지",
+        "lt": "Place of birth",
+        "mg": "Lieu de naissance",
+        "nb_NO": "Fødested",
+        "nl": "Geboorteplaats",
+        "pl": "Miejsce urodzenia",
+        "pt_BR": "Local de nascimento",
+        "pt_PT": "Local de nascimento",
+        "ro": "Locul nașterii",
+        "ru": "Место рождения",
+        "sk": "Miesto narodenia",
+        "sl_SI": "Kraj rojstva",
+        "sq": "Vendi i lindjes",
+        "sv": "Födelseort",
+        "ta": "பிறந்த இடம்",
+        "th": "สถานที่เกิด",
+        "tr": "Doğum yeri",
+        "uk": "Місце народження",
+        "ur": "جاہِ پیدائیش",
+        "vi": "Nơi sinh",
+        "zh_CN": "出生地",
+        "zh_TW": "出生地點"
+      },
+      "description": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "width": 6,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": true,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 3,
+      "x": 1,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Social security number",
+        "ar": "رقم الضمان الاجتماعي",
+        "az": "Sosial sığorta nömrəsi",
+        "bg": "Социалноосигурителен номер",
+        "bs": "JMBG broj",
+        "ca": "Número de SS",
+        "ca@valencia": "Número de SS",
+        "cs": "Číslo OP",
+        "da": "CPR-nummer",
+        "de": "Sozialversicherungsnummer",
+        "dv": "ސޯޝަލް ސެކިއުރިޓީ ނަމްބަރު",
+        "el": "ΑΜΚΑ ή Αριθμός αστυνομικής ταυτότητας",
+        "es": "Número de la seguridad social",
+        "fa": "شماره امنیت اجتماعی",
+        "fi": "Henkilötunnus",
+        "fr": "Numéro d’assurance sociale",
+        "gl": "Número da Seguridade Social",
+        "he": "מספר ביטוח לאומי",
+        "hr_HR": "OIB",
+        "hu_HU": "Személyi azonosító jel",
+        "id": "Nomor KTP",
+        "it": "Codice fiscale",
+        "ja": "社会保障番号",
+        "ka": "სოციალური დაცვის ნომერი",
+        "ko": "사회 보장 번호",
+        "lt": "Social security number",
+        "mg": "Numéro d’assurance sociale",
+        "nb_NO": "Personnummer",
+        "nl": "Burgerservicenummer (BSN)",
+        "pl": "PESEL",
+        "pt_BR": "Número de CPF",
+        "pt_PT": "Número de segurança social",
+        "ro": "Cod numeric personal",
+        "ru": "Номер социального страхования",
+        "sk": "Číslo OP",
+        "sl_SI": "EMŠO",
+        "sq": "numrin e sigurimit social",
+        "sv": "Personnummer",
+        "ta": "சமூக பாதுகாப்பு எண்",
+        "th": "หมายเลขประกันสังคม",
+        "tr": "Kimlik numarası",
+        "uk": "ідентифікаційний код",
+        "ur": "سوشل سیکورٹی نمبر",
+        "vi": "số an sinh xã hội",
+        "zh_CN": "身份证号",
+        "zh_TW": "身份證號碼"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 0,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": true,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 5,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Residence",
+        "ar": "الاقامة",
+        "az": "Ev",
+        "bg": "Местожителство",
+        "bs": "Mjesto prebivališta",
+        "ca": "Residència",
+        "ca@valencia": "Residència",
+        "cs": "Bydliště",
+        "da": "Bopæl",
+        "de": "Wohnort",
+        "dv": "ދިރިއުޅޭތަން",
+        "el": "Κατοικία",
+        "es": "Residencia",
+        "fa": "محل اقامت",
+        "fi": "Asuinpaikka",
+        "fr": "Résidence",
+        "gl": "Residencia",
+        "he": "מגורים",
+        "hr_HR": "Mjesto boravka",
+        "hu_HU": "Lakóhely",
+        "id": "Tempat Tinggal",
+        "it": "Residenza",
+        "ja": "住居",
+        "ka": "Residence",
+        "ko": "거주",
+        "lt": "Residence",
+        "mg": "Résidence",
+        "nb_NO": "Hushold",
+        "nl": "Adres 1",
+        "pl": "Miejsce zamieszkania",
+        "pt_BR": "Residência",
+        "pt_PT": "Residência",
+        "ro": "Rezidență",
+        "ru": "Место жительства",
+        "sk": "Bydlisko",
+        "sl_SI": "Prebivališče",
+        "sq": "shtëpi",
+        "sv": "Residence",
+        "ta": "வதிவிடம்",
+        "th": "ที่พำนัก",
+        "tr": "Oturum",
+        "uk": "Країна проживання",
+        "ur": "رہائش",
+        "vi": "Nơi cư trú",
+        "zh_CN": "住处",
+        "zh_TW": "住處"
+      },
+      "description": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {},
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "width": 0,
+      "preview": false,
+      "type": "fieldgroup",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": false,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 6,
+      "x": 0,
+      "options": [],
+      "children": [
+        {
+          "id": "",
+          "label": {
+            "en": "Address",
+            "ar": "العنوان",
+            "az": "Ünvan",
+            "bg": "Адрес",
+            "bs": "Adresa",
+            "ca": "Adreça",
+            "ca@valencia": "Adreça",
+            "cs": "Adresa",
+            "da": "Adresse",
+            "de": "Adresse",
+            "dv": "ްއެޑްރެސް",
+            "el": "Διεύθυνση",
+            "es": "Dirección",
+            "fa": "آدرس",
+            "fi": "Osoite",
+            "fr": "Adresse",
+            "gl": "Enderezo",
+            "he": "כתובת",
+            "hr_HR": "Adresa",
+            "hu_HU": "Cím",
+            "id": "Alamat",
+            "it": "Indirizzo",
+            "ja": "住所",
+            "ka": "მისამართი",
+            "ko": "주소",
+            "lt": "Adresas",
+            "mg": "Adresse",
+            "nb_NO": "Adresse",
+            "nl": "Adres 2",
+            "pl": "Adres",
+            "pt_BR": "Endereço",
+            "pt_PT": "Morada",
+            "ro": "Adresă",
+            "ru": "Адрес",
+            "sk": "Adresa",
+            "sl_SI": "Naslov",
+            "sq": "Adresë",
+            "sv": "Adress",
+            "ta": "முகவரி",
+            "th": "ที่อยู่",
+            "tr": "Adres",
+            "uk": "Адреса",
+            "ur": "پتہ",
+            "vi": "Địa chỉ nhà",
+            "zh_CN": "地址",
+            "zh_TW": "地址"
+          },
+          "description": {
+            "en": ""
+          },
+          "instance": "template",
+          "hint": {
+            "en": ""
+          },
+          "placeholder": {
+            "en": ""
+          },
+          "multi_entry": false,
+          "attrs": {
+            "max_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "min_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "input_validation": {
+              "type": "unicode",
+              "value": "none"
+            },
+            "regexp": {
+              "type": "unicode",
+              "value": ""
+            }
+          },
+          "width": 0,
+          "preview": false,
+          "type": "inputbox",
+          "fieldgroup_id": "",
+          "encrypt": true,
+          "editable": true,
+          "step_id": "",
+          "required": true,
+          "triggered_by_score": 0,
+          "triggered_by_options": [],
+          "multi_entry_hint": {
+            "en": ""
+          },
+          "template_id": "",
+          "y": 0,
+          "x": 0,
+          "options": [],
+          "children": []
+        },
+        {
+          "id": "",
+          "label": {
+            "en": "Zip code / Postal code",
+            "ar": "الرمز البريدي",
+            "az": "Poçt indeksi",
+            "bg": "Пощенски код",
+            "bs": "Poštanski broj",
+            "ca": "Codi postal",
+            "ca@valencia": "Codi postal",
+            "cs": "PSČ",
+            "da": "Postnummer",
+            "de": "Postleitzahl",
+            "dv": "ޒިޕްކޯޑް/ ޕޯސްޓަލް ކޯޑް",
+            "el": "Ταχυδρομικός κώδικας",
+            "es": "Código postal",
+            "fa": "کد پستی",
+            "fi": "Postinumero",
+            "fr": "Code postal",
+            "gl": "Código postal / código postal",
+            "he": "מיקוד",
+            "hr_HR": "Poštanski broj",
+            "hu_HU": "Irányítószám",
+            "id": "Kode pos",
+            "it": "Codice postale",
+            "ja": "郵便番号",
+            "ka": "Zip კოდი / საფოსტო კოდი",
+            "ko": "우편 번호 / 우편 번호",
+            "lt": "Zip code / Postal code",
+            "mg": "Code postal",
+            "nb_NO": "Postnummer",
+            "nl": "Postcode",
+            "pl": "Kod pocztowy",
+            "pt_BR": "CEP",
+            "pt_PT": "Código postal",
+            "ro": "Cod poștal",
+            "ru": "Почтовый индекс",
+            "sk": "PSČ",
+            "sl_SI": "Poštna številka",
+            "sq": "Kodi Zip / Postal code",
+            "sv": "Postkod",
+            "ta": "Zip குறியீடு / அஞ்சல் குறியீடு",
+            "th": "รหัสไปรษณีย์",
+            "tr": "Posta kodu",
+            "uk": "Поштовий код",
+            "ur": "زپ کوڈ / پوسٹ کوڈ",
+            "vi": "Zip code / Mã bưu chính",
+            "zh_CN": "邮政编码",
+            "zh_TW": "郵遞區號"
+          },
+          "description": {
+            "en": ""
+          },
+          "instance": "template",
+          "hint": {
+            "en": ""
+          },
+          "placeholder": {
+            "en": ""
+          },
+          "multi_entry": false,
+          "attrs": {
+            "max_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "min_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "input_validation": {
+              "type": "unicode",
+              "value": "none"
+            },
+            "regexp": {
+              "type": "unicode",
+              "value": ""
+            }
+          },
+          "width": 0,
+          "preview": false,
+          "type": "inputbox",
+          "fieldgroup_id": "",
+          "encrypt": true,
+          "editable": true,
+          "step_id": "",
+          "required": true,
+          "triggered_by_score": 0,
+          "triggered_by_options": [],
+          "multi_entry_hint": {
+            "en": ""
+          },
+          "template_id": "",
+          "y": 0,
+          "x": 1,
+          "options": [],
+          "children": []
+        },
+        {
+          "id": "",
+          "label": {
+            "en": "City",
+            "ar": "المدينة",
+            "az": "Şəhər",
+            "bg": "Град",
+            "bs": "Grad",
+            "ca": "Població",
+            "ca@valencia": "Població",
+            "cs": "Město",
+            "da": "By",
+            "de": "Stadt",
+            "dv": "ރަށް/ސަހަރު",
+            "el": "Πόλη",
+            "es": "Ciudad",
+            "fa": "شهر",
+            "fi": "Kaupunki",
+            "fr": "Ville",
+            "gl": "Cidade",
+            "he": "עיר",
+            "hr_HR": "Grad",
+            "hu_HU": "Város",
+            "id": "Kota",
+            "it": "Città",
+            "ja": "市区町村",
+            "ka": "ქალაქი",
+            "ko": "시티",
+            "lt": "Miestas",
+            "mg": "Ville",
+            "nb_NO": "Sted",
+            "nl": "Plaats",
+            "pl": "Miejscowość",
+            "pt_BR": "Cidade",
+            "pt_PT": "Cidade",
+            "ro": "Oraș",
+            "ru": "Город",
+            "sk": "Mesto",
+            "sl_SI": "Mesto",
+            "sq": "qytet",
+            "sv": "Stad",
+            "ta": "சிட்டி",
+            "th": "เมือง",
+            "tr": "Şehir",
+            "uk": "Місто",
+            "ur": "شہر",
+            "vi": "Thành phố",
+            "zh_CN": "城市",
+            "zh_TW": "城市"
+          },
+          "description": {
+            "en": ""
+          },
+          "instance": "template",
+          "hint": {
+            "en": ""
+          },
+          "placeholder": {
+            "en": ""
+          },
+          "multi_entry": false,
+          "attrs": {
+            "max_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "min_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "input_validation": {
+              "type": "unicode",
+              "value": "none"
+            },
+            "regexp": {
+              "type": "unicode",
+              "value": ""
+            }
+          },
+          "width": 0,
+          "preview": false,
+          "type": "inputbox",
+          "fieldgroup_id": "",
+          "encrypt": true,
+          "editable": true,
+          "step_id": "",
+          "required": true,
+          "triggered_by_score": 0,
+          "triggered_by_options": [],
+          "multi_entry_hint": {
+            "en": ""
+          },
+          "template_id": "",
+          "y": 2,
+          "x": 0,
+          "options": [],
+          "children": []
+        },
+        {
+          "id": "",
+          "label": {
+            "en": "Province",
+            "ar": "المحافظة أو الولاية",
+            "az": "Bölgə",
+            "bg": "Провинция",
+            "bs": "Pokrajina",
+            "ca": "Província",
+            "ca@valencia": "Província",
+            "cs": "Kraj",
+            "da": "Provins",
+            "de": "Provinz",
+            "dv": "ޕްރޮވިންސް/ އަތޮޅު",
+            "el": "Νομός",
+            "es": "Provincia",
+            "fa": "استان",
+            "fi": "Provinssi",
+            "fr": "Province",
+            "gl": "Provincia",
+            "he": "מחוז",
+            "hr_HR": "Pokrajina",
+            "hu_HU": "Tartomány",
+            "id": "Provinsi",
+            "it": "Regione",
+            "ja": "地方",
+            "ka": "პროვინციაში",
+            "ko": "지방",
+            "lt": "Province",
+            "mg": "Province",
+            "nb_NO": "Kommune",
+            "nl": "Provincie",
+            "pl": "Prowincja",
+            "pt_BR": "Província",
+            "pt_PT": "Província",
+            "ro": "Județ",
+            "ru": "Провинция",
+            "sk": "Okres",
+            "sl_SI": "Provinca",
+            "sq": "krahinë",
+            "sv": "Provins",
+            "ta": "மாகாணம்",
+            "th": "จังหวัด",
+            "tr": "İlçe",
+            "uk": "Регіон",
+            "ur": "صوبہ",
+            "vi": "Địa bàn tỉnh",
+            "zh_CN": "省",
+            "zh_TW": "州/省"
+          },
+          "description": {
+            "en": ""
+          },
+          "instance": "template",
+          "hint": {
+            "en": ""
+          },
+          "placeholder": {
+            "en": ""
+          },
+          "multi_entry": false,
+          "attrs": {
+            "max_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "min_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "input_validation": {
+              "type": "unicode",
+              "value": "none"
+            },
+            "regexp": {
+              "type": "unicode",
+              "value": ""
+            }
+          },
+          "width": 0,
+          "preview": false,
+          "type": "inputbox",
+          "fieldgroup_id": "",
+          "encrypt": true,
+          "editable": true,
+          "step_id": "",
+          "required": true,
+          "triggered_by_score": 0,
+          "triggered_by_options": [],
+          "multi_entry_hint": {
+            "en": ""
+          },
+          "template_id": "",
+          "y": 2,
+          "x": 1,
+          "options": [],
+          "children": []
+        },
+        {
+          "id": "",
+          "label": {
+            "en": "State",
+            "ar": "الدولة",
+            "az": "Rayon",
+            "bg": "Област",
+            "bs": "Stanje",
+            "ca": "Estat",
+            "ca@valencia": "Comunitat autònoma",
+            "cs": "Stát",
+            "da": "Status",
+            "de": "Bundesland",
+            "dv": "ރަށް/އަވަށް",
+            "el": "Κατάσταση",
+            "es": "Estado",
+            "fa": "ایالت",
+            "fi": "Valtio",
+            "fr": "État",
+            "gl": "Estado",
+            "he": "מחוז",
+            "hr_HR": "Država",
+            "hu_HU": "Állam",
+            "id": "Negara bagian",
+            "it": "Stato",
+            "ja": "都道府県州",
+            "ka": "სახელმწიფო",
+            "ko": "상태",
+            "lt": "Būsena",
+            "mg": "État",
+            "nb_NO": "Region",
+            "nl": "Provincie",
+            "pl": "województwo",
+            "pt_BR": "Estado",
+            "pt_PT": "Distrito",
+            "ro": "Status",
+            "ru": "Область",
+            "sk": "Štát",
+            "sl_SI": "Država",
+            "sq": "shtet",
+            "sv": "Tillstånd",
+            "ta": "நிலை",
+            "th": "สถานะ",
+            "tr": "Eyalet",
+            "uk": "Область",
+            "ur": "ریاست",
+            "vi": "Tình trạng",
+            "zh_CN": "州",
+            "zh_TW": "州/省"
+          },
+          "description": {
+            "en": ""
+          },
+          "instance": "template",
+          "hint": {
+            "en": ""
+          },
+          "placeholder": {
+            "en": ""
+          },
+          "multi_entry": false,
+          "attrs": {
+            "max_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "min_len": {
+              "type": "int",
+              "value": "-1"
+            },
+            "input_validation": {
+              "type": "unicode",
+              "value": "none"
+            },
+            "regexp": {
+              "type": "unicode",
+              "value": ""
+            }
+          },
+          "width": 0,
+          "preview": false,
+          "type": "inputbox",
+          "fieldgroup_id": "",
+          "encrypt": true,
+          "editable": true,
+          "step_id": "",
+          "required": true,
+          "triggered_by_score": 0,
+          "triggered_by_options": [],
+          "multi_entry_hint": {
+            "en": ""
+          },
+          "template_id": "",
+          "y": 2,
+          "x": 2,
+          "options": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Current job title",
+        "ar": "المنصب الحالي المشغول",
+        "az": "Hazırkı işi",
+        "bg": "Текуща длъжност",
+        "bs": "Naziv radnog mjesta",
+        "ca": "Professió actual",
+        "ca@valencia": "Professió actual",
+        "cs": "Aktuální pracovní pozice",
+        "da": "Nuværende jobtitel",
+        "de": "Aktuelle Berufsbezeichnung",
+        "dv": "މިހާރު އަދާކުރަމުން އަންނަ ވަޒީފާ",
+        "el": "Τρέχουσα θέση εργασίας",
+        "es": "Empleo actual",
+        "fa": "عنوان شغل کنونی",
+        "fi": "Nykyinen työnimike",
+        "fr": "Appellation d’emploi actuelle",
+        "gl": "Título do posto actual",
+        "he": "תיאור המשרה הנוכחית",
+        "hr_HR": "Trenutna poslovna titula",
+        "hu_HU": "Jelenlegi munka megnevezése",
+        "id": "Jabatan saat ini",
+        "it": "Attuale mansione lavorativa",
+        "ja": "現在の肩書",
+        "ka": "აქტუალური თანამდებობა",
+        "ko": "현재 작업 제목",
+        "lt": "Current job title",
+        "mg": "Appellation d’emploi actuelle",
+        "nb_NO": "Gjeldende jobbtittel",
+        "nl": "Huidige functie",
+        "pl": "Stanowisko",
+        "pt_BR": "Cargo ocupado atualmente",
+        "pt_PT": "Título do trabalho atual",
+        "ro": "Poziție curentă în organizație",
+        "ru": "Текущая должность",
+        "sk": "Aktuálna pracovná pozícia",
+        "sl_SI": "Delovno mesto",
+        "sq": "Titulli aktuale të punës",
+        "sv": "Nuvarande yrke",
+        "ta": "தற்போதைய வேலையின் தலைப்பு",
+        "th": "ชื่อตำแหน่งงาน ในปัจจุบัน",
+        "tr": "Şu andaki işi",
+        "uk": "Займана позиція",
+        "ur": "موجودہ کام کا عنوان",
+        "vi": "Công việc hiện tại",
+        "zh_CN": "当前职位",
+        "zh_TW": "目前工作職稱"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 6,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": false,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 8,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Current job responsibility (role)",
+        "ar": "(المسؤولية في العمل) الدور",
+        "az": "İş yerində vəzifələri (rolu)",
+        "bg": "Настоящи професионални задължения",
+        "bs": "Odgovornosti (uloge) na poslu",
+        "ca": "Professió actual (càrrec)",
+        "ca@valencia": "Professió actual (càrrec)",
+        "cs": "Aktuální pracovní odpovědnost za",
+        "da": "Nuværende arbejdsopgave (rolle)",
+        "de": "Aktuelle Berufsverantwortung (Rolle)",
+        "dv": "މިހާރުގެ ވަޒީފާގެ މަސްއޫލިއްޔަތު (އަދާކުރާ ދައުރު)",
+        "el": "Τρέχοντα καθήκοντα εργασίας (ρόλος)",
+        "es": "Cargo (responsabilidad) del empleo actual",
+        "fa": "مسئولیت (نقش) شغلی کنونی",
+        "fi": "Työrooli",
+        "fr": "Responsabilité professionnelle (rôle) actuelle",
+        "gl": "Responsabilidade laboral actual (role)",
+        "he": "אחריות של משרה נוכחית (תפקיד)",
+        "hr_HR": "Trenutna poslovna odgovornost (uloga)",
+        "hu_HU": "Jelenlegi munka felelőssége (szerepe)",
+        "id": "Tanggung jawab pekerjaan saat ini (Posisi)",
+        "it": "Attuale responsabilità lavorativa (ruolo)",
+        "ja": "現在の役職 (役割)",
+        "ka": "მიმდინარე სამუშაოს პასუხისმგებლობა (როლი)",
+        "ko": "현재 작업 책임 (역할)",
+        "lt": "Current job responsibility (role)",
+        "mg": "Responsabilité professionnelle (rôle) actuelle",
+        "nb_NO": "Gjeldende arbeidsansvar (rolle)",
+        "nl": "Functieomschrijving (rol)",
+        "pl": "Zakres obowiązków (zadania)",
+        "pt_BR": "Cargo ocupado atualmente (função)",
+        "pt_PT": "Responsabilidade no emprego atual (função)",
+        "ro": "Responsabilități în cadrul poziției curente în organizație",
+        "ru": "Текущие служебные обязанности (роль)",
+        "sk": "Aktuálna pracovná zodpovednosť (rola)",
+        "sl_SI": "Odgovornost na delu (vloga)",
+        "sq": "Përgjegjësia aktuale të punës (rolit)",
+        "sv": "Nuvarande arbetsansvar (roll)",
+        "ta": "தற்போதைய வேலை பொறுப்பை (பங்கு)",
+        "th": "ความรับผิดชอบของงาน (บทบาท) ในปัจจุบัน",
+        "tr": "Şu andaki sorumluluğu (rolü)",
+        "uk": "Робочі обов'язки (роль)",
+        "ur": "موجودہ کام کی ذمہ داری (کردار)",
+        "vi": "Vai trò công việc hiện tại",
+        "zh_CN": "当前工作职责（角色）",
+        "zh_TW": "目前工作的責任"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 6,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": false,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 8,
+      "x": 1,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Current organization unit and job location",
+        "ar": "وحدة المنظمة الحالية و مكان العمل",
+        "az": "İş yeri və ünvanı",
+        "bg": "Настоящ отдел в компанията и локация",
+        "bs": "Organizaciona jedinica i lokacija posla",
+        "ca": "Departament i feina actual",
+        "ca@valencia": "Departament i feina actual",
+        "cs": "Aktuální organizační jednotka a lokalita",
+        "da": "Nuværende organisationsenhed og jobplacering",
+        "de": "Aktuelle Organisationseinheit und Arbeitsort",
+        "dv": "މިހާރު ވަޒީފާ އަދާކުރާ އޮފީސް ހުންނަ ތަން އަދި ވަޒީފާ އަދާކުރާ ޑިޕާޓްމަންޓް",
+        "el": "Τρέχων οργανισμός/εταιρία και τόπος εργασίας",
+        "es": "Departamento de tu organización y ubicación del empleo actual",
+        "fa": "واحد سازمانی کنونی و محل کار",
+        "fi": "Organisaatio ja sijainti",
+        "fr": "Unité organisationnelle et lieu d’emploi actuels",
+        "gl": "Unidade de organización actual e localización de emprego",
+        "he": "יחידה ארגונית נוכחית עבודת מיקום",
+        "hr_HR": "Trenutna organizacijska jedinicia i lokacija posla",
+        "hu_HU": "Jelenlegi szervezeti egység és munka helye",
+        "id": "Unit organisasi saat ini dan lokasi kerja",
+        "it": "Attuale unità organizzativa e sede di lavoro",
+        "ja": "現在の所属、職場",
+        "ka": "მიმდინარე ორგანიზაცია ერთეული და სამუშაოს ადგილმდებარეობა",
+        "ko": "현재 조직 단위 및 작업 위치",
+        "lt": "Current organization unit and job location",
+        "mg": "Unité organisationnelle et lieu d’emploi actuels",
+        "nb_NO": "Gjeldende organisatorisk enhet og arbeidsplassens stedvise plassering",
+        "nl": "Huidige departement en locatie",
+        "pl": "Miejsce i instytucja, gdzie pracujesz",
+        "pt_BR": "Unidade de setor atual e lugar de exercício desse cargo",
+        "pt_PT": "Unidade organizacional e local de trabalho atual",
+        "ro": "Departament și locul curent în care îți desfășori activitatea",
+        "ru": "Текущая организационная единица и место работы",
+        "sk": "Aktuálna organizačná jednotka a miesto práce",
+        "sl_SI": "Organizacijska enota in lokacija dela",
+        "sq": "Njësia aktuale organizimi dhe vendndodhjen e vendeve të punës",
+        "sv": "Nuvarande organisationsenhet och jobb plats",
+        "ta": "தற்போதைய அமைப்பு பிரிவின் மற்றும் வேலை இடம்",
+        "th": "แผนกงานและสถานที่ปฏิบัติงาน ในปัจจุบัน",
+        "tr": "Şu andaki kurumu ve işyeri",
+        "uk": "Місцерозташування офісу",
+        "ur": "موجودہ تنظیمی یونٹ اور کام کے جگہ",
+        "vi": "Tổ chức đang làm việc và địa điểm công việc",
+        "zh_CN": "当前的组织单位和工作地点",
+        "zh_TW": "目前的組織單位與工作地點"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 0,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": false,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 9,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Job title at the time of the reported fact",
+        "ar": "اسم المنصب وقت الابلاغ عن الواقعة",
+        "az": "Fakt haqda məlumat verən zaman vəzifənin adı",
+        "bg": "Наименование на длъжността към момента на докладваното нарушение",
+        "bs": "Naziv posla u trenutku prijavljenih činjenica",
+        "ca": "Càrrec laboral en el moment dels fets esmentats",
+        "ca@valencia": "Càrrec laboral en el moment dels fets esmentats",
+        "cs": "Název pracovní pozice v době oznamovaného jednání",
+        "da": "Jobtitel på tidspunktet for de omstændigheder der rapporteres om",
+        "de": "Berufsbezeichnung zum Zeitpunkt der gemeldeten Sache",
+        "dv": "ރިޕޯރޓްކުރި އިރު ހުރި ވަޒީފާ އަދި ލަގަބު",
+        "el": "Θέση εργασίας κατά το χρόνο του αναφερόμενου γεγονότος",
+        "es": "Empleo en el momento del hecho informado",
+        "fa": "عنوان شغلی زمانی‌که این گزارش را ارائه کردید",
+        "fi": "Työnimike ilmoitushetkellä",
+        "fr": "Appellation d’emploi à l’époque du fait signalé",
+        "gl": "Título do traballo no momento do feito reportado",
+        "he": "הגדרת תפקיד בעת עובדת הדיווח",
+        "hr_HR": "Poslovna titula u vrijeme prijavljene činjenice",
+        "hu_HU": "Munka megnevezése a bejelentett tény idejében",
+        "id": "Jabatan pada saat fakta dilaporkan",
+        "it": "Mansione lavorativa all'epoca dei fatti segnalati",
+        "ja": "報告する事実の時点での肩書",
+        "ka": "თანამდებობა დროს ინფორმაციით ფაქტი",
+        "ko": "보고 된 사실 당시의 직위",
+        "lt": "Job title at the time of the reported fact",
+        "mg": "Appellation d’emploi à l’époque du fait rapporté",
+        "nb_NO": "Jobbtittel i det faktaen ble rapportert",
+        "nl": "Functietitel ten tijde van de misstand",
+        "pl": "Stanowisko w czasie, gdy działa się sytuacja, którą zgłaszasz",
+        "pt_BR": "Cargo ocupado no momento dos fatos relatados",
+        "pt_PT": "Título do trabalho no momento do facto relatado.",
+        "ro": "Poziția ta la momentul în care aveau loc faptele sesizate",
+        "ru": "Занимаемая должность во время событий, изложенных в материале",
+        "sk": "Názov pracovnej pozície v čase podania",
+        "sl_SI": "Naziv delovnega mesta ob poročanju",
+        "sq": "Titulli Job në kohën e faktit raportuar",
+        "sv": "Jobb titel vid tid av rapporterad fakta",
+        "ta": "தகவல் உண்மையில் நேரத்தில் வேலை தலைப்பு",
+        "th": "ชื่อตำแหน่งงาน ในเวลาที่เกิดข้อเท็จจริงตามรายงาน",
+        "tr": "Hakkında bilgi verilen olay sırasındaki iş unvanı",
+        "uk": "Посада на момент правопорушення про яке повідомляється",
+        "ur": "رپورٹ کیا اس حقیقت کے وقت جاب عنوان",
+        "vi": "Chức danh công việc tại thời điểm báo cáo",
+        "zh_CN": "报告实情时的工作职称",
+        "zh_TW": "報告實情時的工作職稱"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 0,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": false,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 10,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Job responsibility (role) at the time of the reported fact",
+        "ar": "المسؤولية في العمل (الدور) وقت الابلاغ عن الواقعة",
+        "az": "Fakt haqda məlumat verən zaman vəzifənin məsuliyyəti (rolu)",
+        "bg": "Професионални отговорности по времето на докладвания сигнал",
+        "bs": "Odgovornosti (uloge) na poslu u trenutku prijavljenih činjenica",
+        "ca": "Responsabilitat laboral (rol) en el moment dels fets esmentats",
+        "ca@valencia": "Càrrec laboral en el moment dels fets esmentats",
+        "cs": "Pracovní odpovědnost (role) v době oznamovaného jednání",
+        "da": "Arbejdsopgave (rolle) på tidspunktet for de omstændigheder der rapporteres om",
+        "de": "Berufsverantwortung (Rolle) zum Zeitpunkt der gemeldeten Sache",
+        "dv": "ރިޕޯޓް ހުށަހަޅުއްވާ ވަގުތު އަދާކުރާ ވަޒީފާގެ މަސްއޫލިއްޔަތުތައް",
+        "el": "Καθήκοντα εργασίας (ρόλος) κατά το χρόνο του αναφερόμενου γεγονότος",
+        "es": "Cargo (responsabilidad) del empleo en el momento del hecho informado",
+        "fa": "مسئولیت (نقش) شما زمانی‌که این گزارش را ارائه کردید",
+        "fi": "Työtehtävä ilmoitushetkellä",
+        "fr": "Responsabilité professionnelle (rôle) à l’époque du fait signalé",
+        "gl": "Responsabilidade do traballo (role) no momento do feito reportado",
+        "he": "אחריות משרה (תפקיד) בזמן העובדה המְדֻוָּחַת",
+        "hr_HR": "Poslovna odgovornost (uloga) u doba prijavljene činjenice",
+        "hu_HU": "Munka felelőssége (szerepe) a bejelentett tény idejében",
+        "id": "Tanggung jawab pekerjaan (posisi) pada saat fakta dilaporkan",
+        "it": "Responsabilità lavorativa (ruolo) all'epoca dei fatti segnalati",
+        "ja": "報告する事実の時点での役職 (役割)",
+        "ka": "სამუშაო პასუხისმგებლობა (როლი) დროს ინფორმაციით ფაქტი",
+        "ko": "보고 된 사실 당시의 작업 책임 (역할)",
+        "lt": "Job responsibility (role) at the time of the reported fact",
+        "mg": "Responsabilité professionnelle (rôle) à l’époque du fait rapporté",
+        "nb_NO": "Arbeidsansvar (rolle) i det faktaen ble rapportert",
+        "nl": "Rol (verantwoordelijkheid) ten tijde van de misstand",
+        "pl": "Zakres obowiązków (zadania) w czasie, gdy działa się sytuacja, którą zgłaszasz",
+        "pt_BR": "Cargo (função) ocupado no momento dos fatos relatados",
+        "pt_PT": "Responsabilidade de trabalho (função) no momento do facto comunicado",
+        "ro": "Responsabilitățile tale în organizație la momentul în care aveau loc faptele sesizate",
+        "ru": "Служебные обязанности (роль) во время событий, изложенных в материале",
+        "sk": "Pracovná zodpovednosť (rola) v čase podania",
+        "sl_SI": "Odgovornost na delu (vloga) ob poročanju",
+        "sq": "Përgjegjësia Job (roli) në kohën e faktit raportuar",
+        "sv": "Arbetsansvar (roll) vid tidpunkten för det rapporterade faktumet",
+        "ta": "வேலை பொறுப்பை (பங்கு) அறிவித்தது நேரத்தில்",
+        "th": "ความรับผิดชอบของงาน (บทบาท) ในเวลาที่เกิดข้อเท็จจริงตามรายงาน",
+        "tr": "Hakkında bilgi verilen olay sırasındaki sorumluluğu (rolü)",
+        "uk": "Відповідальності (роль) на момент правопорушення про яке повідомляється",
+        "ur": "کام کی ذمہ داری (کردار) کی خبر کے مطابق یہ حقیقت کے وقت",
+        "vi": "Vị trí công việc tại thời điểm báo cáo",
+        "zh_CN": "报告实情时的工作职责",
+        "zh_TW": "報告實情時的工作職責"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 0,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": false,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 10,
+      "x": 1,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Organization unit and job location at the time of the reported fact",
+        "ar": "وحدة المنظمة و مكان العمل وقت الابلاغ عن الواقعة",
+        "az": "Fakt haqda məlumat verən zaman təşkilatın forması və iş yeri",
+        "bg": "Отдел в компанията и локация по времето на докладвания сигнал",
+        "bs": "Organizacione jedinice i lokacija posla u trenutku prijavljenih činjenica",
+        "ca": "Unitat d'organització i localització de feina en el moment dels fets esmentats",
+        "ca@valencia": "Unitat d'organització i localització del lloc de treball en el moment dels fets esmentats",
+        "cs": "Organizační jednotka a lokalita v době oznamovaného jednání",
+        "da": "Organisationsenhed og jobplacering på tidspunktet for de indrapporterede oplysninger",
+        "de": "Organisationseinheit und Arbeitsplatz zum Zeitpunkt der gemeldeten Sache",
+        "dv": "ރިޕޯޓް ހުށަހަޅުއްވާ ވަގުތު ވަޒީފާ އަދާކުރާ އޮފީސް ހުންނަ ތަން އަދި ވަޒީފާ އަދާކުރާ ޑިޕާޓްމަންޓް",
+        "el": "Οργανισμός/Εταιρία και τόπος εργασίας κατά το χρόνο του αναφερόμενου γεγονότος",
+        "es": "Departamento y ubicación del empleo en el momento del hecho informado",
+        "fa": "واحد سازمانی و محل کار وقتی این گزارش را ارائه کردید",
+        "fi": "Organisaatioyksikkö ja työpaikan sijainti raportointihetkellä",
+        "fr": "Unité organisationnelle et lieu d’emploi à l’époque du fait signalé",
+        "gl": "Unidade organizativa e lugar de traballo no momento do feito reportado",
+        "he": "יחידת ארגון עבודת מיקום בעת עובדת הדיווח",
+        "hr_HR": "Organizacijska jedinica i lokacija posla u vrijeme prijavljene činjenice",
+        "hu_HU": "Szervezeti egység és munka helye a bejelentett tény idejében",
+        "id": "Unit organisasi dan lokasi kerja pada saat fakta dilaporkan",
+        "it": "Unità organizzativa e sede di lavoro all'epoca dei fatti riportati",
+        "ja": "報告する事実の時点での所属、職場",
+        "ka": "ორგანიზაცია ერთეული და სამუშაოს ადგილმდებარეობა დროს ინფორმაციით ფაქტი",
+        "ko": "보고 된 사실시 조직 단위 및 작업 위치",
+        "lt": "Organization unit and job location at the time of the reported fact",
+        "mg": "Unité organisationnelle et lieu d’emploi à l’époque du fait rapporté",
+        "nb_NO": "Organisatorisk enhet og arbeidets stedvise plassering i det faktaen ble rapportert",
+        "nl": "Departement en locatie ten tijde van de misstand",
+        "pl": "Miejsce i instytucja Twojej pracy w czasie, którego dotyczy zgłoszenie",
+        "pt_BR": "Unidade de setor e lugar de exercício do cargo no momento dos fatos relatados",
+        "pt_PT": "Organização, unidade e local de trabalho no momento do facto relatado",
+        "ro": "Departament și locul în care îți desfășurai activitatea la momentul în care aveau loc faptele sesizate",
+        "ru": "Текущая организационная единица и место работы во время событий, изложенных в материале",
+        "sk": "Organizačná jednotka a miesto práce v čase podania",
+        "sl_SI": "Organizacijska enota in lokacija dela ob poročanju",
+        "sq": "njësi organizative dhe vendin e punës në kohën e faktit raportuar",
+        "sv": "Organisationsenhet och arbetsplats vid tidpunkten för det rapporterade faktumet",
+        "ta": "தகவல் உண்மையில் நேரத்தில் அமைப்பு அலகு மற்றும் வேலை இடம்",
+        "th": "แผนกงานและสถานที่ปฏิบัติงาน ในเวลาที่เกิดข้อเท็จจริงตามรายงาน",
+        "tr": "Hakkında bilgi verilen olay sırasındaki kurumu ve iş yeri",
+        "uk": "Місцерозташування офісу на момент правопорушення про яке повідомляється",
+        "ur": "رپورٹ کیا حقیقت یہ ہے کے وقت میں تنظیم یونٹ اور کام کے محل وقوع",
+        "vi": "Tổ chức đang làm việc và vị trí công việc tại thời điểm báo cáo",
+        "zh_CN": "报道事实的组织单位和工作地点",
+        "zh_TW": "報告實情時的工作組織單位與工作地點"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 0,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": false,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 11,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Phone number",
+        "ar": "رقم الهاتف",
+        "az": "Telefon nömrə",
+        "bg": "Телефонен номер",
+        "bs": "Telefonski broj",
+        "ca": "Número de telèfon",
+        "ca@valencia": "Número de telèfon",
+        "cs": "Telefonní číslo",
+        "da": "Telefonnummer",
+        "de": "Telefonnummer",
+        "dv": "ފޯނު ނަމްބަރު",
+        "el": "Αριθμός τηλεφώνου",
+        "es": "Número de teléfono",
+        "fa": "شماره تلفن",
+        "fi": "Puhelinnumero",
+        "fr": "Numéro de téléphone",
+        "gl": "Número de teléfono",
+        "he": "מספר טלפון",
+        "hr_HR": "Telefonski broj",
+        "hu_HU": "Telefonszám",
+        "id": "Nomor telepon",
+        "it": "Numero di telefono",
+        "ja": "電話番号",
+        "ka": "ტელეფონის ნომერი",
+        "ko": "전화 번호",
+        "lt": "Telefono numeris",
+        "mg": "Numéro de téléphone",
+        "nb_NO": "Telefonnummer",
+        "nl": "Telefoonnummer",
+        "pl": "Telefon",
+        "pt_BR": "Telefone",
+        "pt_PT": "Número de telefone",
+        "ro": "Număr de telefon",
+        "ru": "Номер телефона",
+        "sk": "Telefónne číslo",
+        "sl_SI": "Telefonska številka",
+        "sq": "Numri i telefonit",
+        "sv": "Telefonnummer",
+        "ta": "தொலைபேசி எண்",
+        "th": "หมายเลขโทรศัพท์",
+        "tr": "Telefon numarası",
+        "uk": "Тел.номер",
+        "ur": "فون نمبر",
+        "vi": "Số điện thoại",
+        "zh_CN": "电话号码",
+        "zh_TW": "電話號碼"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 6,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": true,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 7,
+      "x": 0,
+      "options": [],
+      "children": []
+    },
+    {
+      "id": "",
+      "label": {
+        "en": "Email address",
+        "ar": "بريد إلكتروني",
+        "az": "E-mail ünvanı",
+        "bg": "Имейл адрес",
+        "bs": "E-mail adresa",
+        "ca": "Adreça electrònica",
+        "ca@valencia": "Adreça electrònica",
+        "cs": "Emailová adresa",
+        "da": "E-mail-adresse",
+        "de": "E-Mail-Adresse",
+        "dv": "އީމެއިލް އެޑްރެސް",
+        "el": "Διεύθυνση email",
+        "es": "Dirección de correo electrónico",
+        "fa": "آدرس ایمیل",
+        "fi": "Sähköpostiosoite",
+        "fr": "Adresse courriel",
+        "gl": "Enderezo electrónico",
+        "he": "כתובת דוא״ל",
+        "hr_HR": "Email adresa",
+        "hu_HU": "Email cím",
+        "id": "Alamat surel",
+        "it": "Indirizzo email",
+        "ja": "メールアドレス",
+        "ka": "ელექტრონული მისამართი",
+        "ko": "이메일 주소",
+        "lt": "El. pašto adresas",
+        "mg": "Adresse courriel",
+        "nb_NO": "E-postadresse",
+        "nl": "Emailadres",
+        "pl": "Adres email",
+        "pt_BR": "Endereço de Email",
+        "pt_PT": "Endereço de e-mail",
+        "ro": "Adresă de email",
+        "ru": "Адрес эл. почты",
+        "sk": "Emailová adresa",
+        "sl_SI": "E-poštni naslov",
+        "sq": "Adresa e E-postës",
+        "sv": "E-postadress",
+        "ta": "மின்னஞ்சல் முகவரி",
+        "th": "ที่อยู่อีเมล",
+        "tr": "E-posta Adresi",
+        "uk": "Електронна пошта",
+        "ur": "ای میل پتہ",
+        "vi": "Địa chỉ email",
+        "zh_CN": "电子信箱",
+        "zh_TW": "電子信箱"
+      },
+      "description": {
+        "en": ""
+      },
+      "instance": "template",
+      "hint": {
+        "en": ""
+      },
+      "placeholder": {
+        "en": ""
+      },
+      "multi_entry": false,
+      "attrs": {
+        "max_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "min_len": {
+          "type": "int",
+          "value": "-1"
+        },
+        "input_validation": {
+          "type": "unicode",
+          "value": "none"
+        },
+        "regexp": {
+          "type": "unicode",
+          "value": ""
+        }
+      },
+      "width": 6,
+      "preview": false,
+      "type": "inputbox",
+      "fieldgroup_id": "",
+      "encrypt": true,
+      "editable": true,
+      "step_id": "",
+      "required": true,
+      "triggered_by_score": 0,
+      "triggered_by_options": [],
+      "multi_entry_hint": {
+        "en": ""
+      },
+      "template_id": "",
+      "y": 7,
+      "x": 0,
+      "options": [],
+      "children": []
+    }
+  ]
+}
